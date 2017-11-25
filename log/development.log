@@ -10594,3 +10594,156 @@ Processing by DashboardController#index as HTML
 Completed 200 OK in 44ms (Views: 41.2ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for 127.0.0.1 at 2017-11-25 00:19:36 -0300
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by DashboardController#index as HTML
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.8ms)
+  Rendered shared/_header.html.erb (0.7ms)
+  Rendered shared/_sidebar.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+  Rendered shared/_rightbar.html.erb (0.5ms)
+  Rendered shared/_scripts.html.erb (0.2ms)
+Completed 200 OK in 176ms (Views: 170.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-11-25 00:19:38 -0300
+Processing by DashboardController#index as HTML
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (1.0ms)
+  Rendered shared/_header.html.erb (0.5ms)
+  Rendered shared/_sidebar.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+  Rendered shared/_rightbar.html.erb (0.4ms)
+  Rendered shared/_scripts.html.erb (0.2ms)
+Completed 200 OK in 47ms (Views: 43.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-11-25 00:19:39 -0300
+Processing by DashboardController#index as HTML
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (2.8ms)
+  Rendered shared/_header.html.erb (0.5ms)
+  Rendered shared/_sidebar.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+  Rendered shared/_rightbar.html.erb (0.6ms)
+  Rendered shared/_scripts.html.erb (0.4ms)
+Completed 200 OK in 64ms (Views: 61.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-11-25 00:19:40 -0300
+Processing by DashboardController#index as HTML
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (1.9ms)
+  Rendered shared/_header.html.erb (0.8ms)
+  Rendered shared/_sidebar.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+  Rendered shared/_rightbar.html.erb (0.7ms)
+  Rendered shared/_scripts.html.erb (0.3ms)
+Completed 200 OK in 107ms (Views: 102.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-11-25 00:21:00 -0300
+Processing by DashboardController#index as HTML
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (1.3ms)
+  Rendered shared/_header.html.erb (0.6ms)
+  Rendered shared/_sidebar.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.9ms)
+  Rendered shared/_rightbar.html.erb (0.7ms)
+  Rendered shared/_scripts.html.erb (0.3ms)
+Completed 200 OK in 50ms (Views: 46.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-11-25 00:21:03 -0300
+Processing by DashboardController#index as HTML
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (1.5ms)
+  Rendered shared/_header.html.erb (0.5ms)
+  Rendered shared/_sidebar.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+  Rendered shared/_rightbar.html.erb (0.4ms)
+  Rendered shared/_scripts.html.erb (0.2ms)
+Completed 200 OK in 44ms (Views: 40.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-11-25 00:21:37 -0300
+Processing by DashboardController#index as HTML
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (2.5ms)
+  Rendered shared/_header.html.erb (0.6ms)
+  Rendered shared/_sidebar.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+  Rendered shared/_rightbar.html.erb (0.6ms)
+  Rendered shared/_scripts.html.erb (0.4ms)
+Completed 200 OK in 41ms (Views: 36.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-11-25 00:21:38 -0300
+Processing by DashboardController#index as HTML
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.4ms)
+  Rendered shared/_header.html.erb (0.7ms)
+  Rendered shared/_sidebar.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+  Rendered shared/_rightbar.html.erb (0.6ms)
+  Rendered shared/_scripts.html.erb (0.3ms)
+Completed 200 OK in 40ms (Views: 37.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-11-25 00:22:14 -0300
+Processing by DashboardController#index as HTML
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (1.9ms)
+  Rendered shared/_header.html.erb (0.8ms)
+  Rendered shared/_sidebar.html.erb (0.3ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+  Rendered shared/_rightbar.html.erb (0.6ms)
+  Rendered shared/_scripts.html.erb (0.3ms)
+Completed 200 OK in 110ms (Views: 105.7ms | ActiveRecord: 0.0ms)
+
+
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT pg_try_advisory_lock(6036990513020873595)[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCOMMIT[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT pg_advisory_unlock(6036990513020873595)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT pg_try_advisory_lock(6036990513020873595)[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to Init (20171125032531)
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (15.1ms)[0m  [1m[35mCREATE TABLE "profiles" ("id" bigserial primary key, "name" character varying, "phone" character varying, "rut" character varying, "user_id" bigint, "created_at" timestamp NOT NULL, "updated_at" timestamp NOT NULL)[0m
+  [1m[35m (4.2ms)[0m  [1m[35mCREATE  INDEX  "index_profiles_on_user_id" ON "profiles"  ("user_id")[0m
+  [1m[35m (9.6ms)[0m  [1m[35mCREATE TABLE "properties" ("id" bigserial primary key, "rut" character varying, "country" character varying, "city" character varying, "address" character varying, "profile_id" bigint, "created_at" timestamp NOT NULL, "updated_at" timestamp NOT NULL)[0m
+  [1m[35m (4.5ms)[0m  [1m[35mCREATE  INDEX  "index_properties_on_profile_id" ON "properties"  ("profile_id")[0m
+  [1m[35m (10.7ms)[0m  [1m[35mCREATE TABLE "companies" ("id" bigserial primary key, "name" character varying, "rut" character varying, "country" character varying, "city" character varying, "address" character varying, "phone" character varying, "created_at" timestamp NOT NULL, "updated_at" timestamp NOT NULL)[0m
+  [1m[35m (11.2ms)[0m  [1m[35mCREATE TABLE "bill_types" ("id" bigserial primary key, "name" character varying, "created_at" timestamp NOT NULL, "updated_at" timestamp NOT NULL)[0m
+  [1m[35m (14.6ms)[0m  [1m[35mCREATE TABLE "bills" ("id" bigserial primary key, "bill_code" character varying, "emition_date" timestamp, "expire_date" timestamp, "paid" boolean, "total" integer, "profile_id" bigint, "property_id" bigint, "company_id" bigint, "bill_type_id" bigint, "created_at" timestamp NOT NULL, "updated_at" timestamp NOT NULL)[0m
+  [1m[35m (5.4ms)[0m  [1m[35mCREATE  INDEX  "index_bills_on_profile_id" ON "bills"  ("profile_id")[0m
+  [1m[35m (6.0ms)[0m  [1m[35mCREATE  INDEX  "index_bills_on_property_id" ON "bills"  ("property_id")[0m
+  [1m[35m (5.1ms)[0m  [1m[35mCREATE  INDEX  "index_bills_on_company_id" ON "bills"  ("company_id")[0m
+  [1m[35m (5.2ms)[0m  [1m[35mCREATE  INDEX  "index_bills_on_bill_type_id" ON "bills"  ("bill_type_id")[0m
+  [1m[35m (12.9ms)[0m  [1m[35mCREATE TABLE "files" ("id" bigserial primary key, "name" character varying, "description" character varying, "bill_id" bigint, "created_at" timestamp NOT NULL, "updated_at" timestamp NOT NULL)[0m
+  [1m[35m (4.7ms)[0m  [1m[35mCREATE  INDEX  "index_files_on_bill_id" ON "files"  ("bill_id")[0m
+  [1m[35mSQL (0.8ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20171125032531"]]
+  [1m[35m (9.0ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.9ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mCOMMIT[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT pg_advisory_unlock(6036990513020873595)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/" for 127.0.0.1 at 2017-11-25 00:47:56 -0300
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by DashboardController#index as HTML
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.6ms)
+  Rendered shared/_header.html.erb (0.5ms)
+  Rendered shared/_sidebar.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+  Rendered shared/_rightbar.html.erb (0.4ms)
+  Rendered shared/_scripts.html.erb (0.2ms)
+Completed 200 OK in 166ms (Views: 160.5ms | ActiveRecord: 0.0ms)
+
+
